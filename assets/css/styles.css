@@ -584,12 +584,12 @@ img {
   grid-area: work1;
 }
 
-.education2 {
-  grid-area: education2;
-}
-
 .work2 {
   grid-area: work2;
+}
+
+.work3 {
+  grid-area: work3;
 }
 
 /*==================== PORTFOLIO ====================*/
