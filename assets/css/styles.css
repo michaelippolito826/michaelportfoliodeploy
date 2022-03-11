@@ -559,9 +559,12 @@ img {
   gap: 0.75rem 1.5rem;
   grid-auto-flow: row;
   grid-template-areas:
-    "educationicon workicon"
-    "education1 work1"
-    "education2 work2";
+    "workicon"
+    "work1"
+    "work2"
+    "work3"
+    "educationicon"
+    "education1";
 }
 
 .educationicon {
