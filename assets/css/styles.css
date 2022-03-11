@@ -552,6 +552,7 @@ img {
 }
 
 .qualification__data {
+  align-self: center;
   display: grid;
   padding: auto;
   grid-template-columns: 1fr;
