@@ -554,8 +554,8 @@ img {
 .qualification__data {
   display: grid;
   padding: auto;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   gap: 0.75rem 1.5rem;
   grid-auto-flow: row;
   grid-template-areas:
